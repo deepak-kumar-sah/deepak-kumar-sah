@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Deepak Kumar Sah 👋
 
-<!--
-**deepak-kumar-sah/deepak-kumar-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I am a B.Tech Computer Science student interested in **Data Analytics** and turning data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* **Python** — Pandas, NumPy, Matplotlib
+* **SQL** — MySQL, Joins, Subqueries, Aggregations
+* **Excel** — Data Cleaning, Analysis, Lookups
+* **Power BI** — Dashboards, KPIs, Data Visualization
+* **Jupyter Notebook**
+
+### 📊 Featured Project
+
+**E-Commerce Sales Analytics**
+
+An end-to-end data analytics project using **Python, SQL, MySQL, and Power BI** to analyze e-commerce sales, products, platforms, revenue, quantity, discounts, and trends.
+
+🔗 [View E-Commerce Sales Analytics](https://github.com/deepak-kumar-sah/E-Commerce-Sales-Analytics)
+
+### 🎯 Currently Learning
+
+Data Analytics, Statistics, Advanced SQL, Excel, Python for Data Analysis, and Power BI.
+
+### 🚀 Career Goal
+
+To start my career as a **Data Analyst** and continuously improve my analytical and technical skills.
+
+Thanks for visiting my profile! ⭐
